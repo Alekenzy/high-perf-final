@@ -1,0 +1,14 @@
+$ ./seq_spmv_csr5 bcsstk14.mtx vector_bcsstk14.mtx out_bcsstk14.mtx
+Execution Time: 0.000130 seconds
+
+$ ./seq_spmv_csr5 bcsstk15.mtx vector_bcsstk15.mtx out_bcsstk15.mtx
+Execution Time: 0.000246 seconds
+
+$ ./seq_spmv_csr5 bcsstk16.mtx vector_bcsstk16.mtx out_bcsstk16.mtx
+Execution Time: 0.000465 seconds
+
+$ ./seq_spmv_csr5 bcsstk17.mtx vector_bcsstk17.mtx out_bcsstk17.mtx
+Execution Time: 0.000742 seconds
+
+$ ./seq_spmv_csr5 bcsstk18.mtx vector_bcsstk18.mtx out_bcsstk18.mtx
+Execution Time: 0.000342 seconds

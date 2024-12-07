@@ -1,0 +1,67 @@
+$ ./omp_spmv_csr5 1 bcsstk14.mtx vector_bcsstk14.mtx out_par_bcsstk14_1t.mtx
+Execution Time: 0.000127 seconds
+
+$ ./omp_spmv_csr5 2 bcsstk14.mtx vector_bcsstk14.mtx out_par_bcsstk14_2t.mtx
+Execution Time: 0.000157 seconds
+
+$ ./omp_spmv_csr5 4 bcsstk14.mtx vector_bcsstk14.mtx out_par_bcsstk14_4t.mtx
+Execution Time: 0.000185 seconds
+
+$ ./omp_spmv_csr5 8 bcsstk14.mtx vector_bcsstk14.mtx out_par_bcsstk14_8t.mtx
+Execution Time: 0.000637 seconds
+
+----------------------------------------------------------------------------
+
+$ ./omp_spmv_csr5 1 bcsstk15.mtx vector_bcsstk15.mtx out_par_bcsstk15_1t.mtx
+Execution Time: 0.001201 seconds
+
+$ ./omp_spmv_csr5 2 bcsstk15.mtx vector_bcsstk15.mtx out_par_bcsstk15_2t.mtx
+Execution Time: 0.001161 seconds
+
+$ ./omp_spmv_csr5 4 bcsstk15.mtx vector_bcsstk15.mtx out_par_bcsstk15_4t.mtx
+Execution Time: 0.000978 seconds
+
+$ ./omp_spmv_csr5 8 bcsstk15.mtx vector_bcsstk15.mtx out_par_bcsstk15_8t.mtx
+Execution Time: 0.000274 seconds
+
+----------------------------------------------------------------------------
+
+$ ./omp_spmv_csr5 1 bcsstk16.mtx vector_bcsstk16.mtx out_par_bcsstk16_1t.mtx
+Execution Time: 0.000720 seconds
+
+$ ./omp_spmv_csr5 2 bcsstk16.mtx vector_bcsstk16.mtx out_par_bcsstk16_2t.mtx
+Execution Time: 0.000748 seconds
+
+$ ./omp_spmv_csr5 4 bcsstk16.mtx vector_bcsstk16.mtx out_par_bcsstk16_4t.mtx
+Execution Time: 0.000698 seconds
+
+$ ./omp_spmv_csr5 8 bcsstk16.mtx vector_bcsstk16.mtx out_par_bcsstk16_8t.mtx
+Execution Time: 0.000655 seconds
+
+----------------------------------------------------------------------------
+
+$ ./omp_spmv_csr5 1 bcsstk17.mtx vector_bcsstk17.mtx out_par_bcsstk17_1t.mtx
+Execution Time: 0.001277 seconds
+
+$ ./omp_spmv_csr5 2 bcsstk17.mtx vector_bcsstk17.mtx out_par_bcsstk17_2t.mtx
+Execution Time: 0.001437 seconds
+
+$ ./omp_spmv_csr5 4 bcsstk17.mtx vector_bcsstk17.mtx out_par_bcsstk17_4t.mtx
+Execution Time: 0.002116 seconds
+
+$ ./omp_spmv_csr5 8 bcsstk17.mtx vector_bcsstk17.mtx out_par_bcsstk17_8t.mtx
+Execution Time: 0.001399 seconds
+
+----------------------------------------------------------------------------
+
+$ ./omp_spmv_csr5 1 bcsstk18.mtx vector_bcsstk18.mtx out_par_bcsstk18_1t.mtx
+Execution Time: 0.000395 seconds
+
+$ ./omp_spmv_csr5 2 bcsstk18.mtx vector_bcsstk18.mtx out_par_bcsstk18_2t.mtx
+Execution Time: 0.000542 seconds
+
+$ ./omp_spmv_csr5 4 bcsstk18.mtx vector_bcsstk18.mtx out_par_bcsstk18_4t.mtx
+Execution Time: 0.000449 seconds
+
+$ ./omp_spmv_csr5 8 bcsstk18.mtx vector_bcsstk18.mtx out_par_bcsstk18_8t.mtx
+Execution Time: 0.000457 seconds
